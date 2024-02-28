@@ -23,7 +23,7 @@ namespace BeFit_REPO.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-6B51G3S;Database=BeFitFinish;Trusted_Connection=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=DESKTOP;Database=BeFitFinish;Trusted_Connection=True;TrustServerCertificate=True");
         }
     }
 }
