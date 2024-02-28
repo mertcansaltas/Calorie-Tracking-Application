@@ -1,0 +1,289 @@
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\pc\Desktop\DiyetDenemeleri 1-Son\DiyetDenemeleri\BeFit\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.deps.json
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\refint\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\BeFit-REPO.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit-REPO\obj\Debug\net6.0\ref\BeFit-REPO.dll

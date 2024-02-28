@@ -1,0 +1,1078 @@
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form1.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form2.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form3.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form5.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.LoginScreen.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignInScreen.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..Designer.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AdminScreen.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MemberInformation.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.ReportScreen.resources
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignUpScreen.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..Designer.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AdminScreen.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Form4.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.LoginScreen.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MemberInformation.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.ReportScreen.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignInScreen.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignUpScreen.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..Designer.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AdminScreen.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.LoginScreen.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MemberInformation.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.ReportScreen.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignInScreen.resources
+C:\Users\Lenovo\Desktop\BeFitUser\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignUpScreen.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..Designer.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AdminScreen.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.LoginScreen.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MemberInformation.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignInScreen.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignUpScreen.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MainScreen.resources
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MealScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.exe
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll.config
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.deps.json
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\bin\Debug\net6.0-windows\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..Designer.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi..resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AdminScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.LoginScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MainScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MealScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.MemberInformation.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignInScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.SignUpScreen.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.VerificationForm.resources
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\refint\BeFitUi.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\BeFitUi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFitUi\obj\Debug\net6.0-windows\ref\BeFitUi.dll

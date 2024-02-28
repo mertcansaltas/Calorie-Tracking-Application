@@ -1,0 +1,272 @@
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitDeneme\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitDeneme5\BeFitDeneme5\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\Entity Proje\BeFitGECE\BeFitDeneme\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFit31.01\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\PROJE\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitUser 1\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Autocad\Desktop\BeFitSonHali\BeFitUser\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\pc\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.deps.json
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-REPO.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\bin\Debug\net6.0\BeFit-DATA.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\refint\BeFit.SERVICE.dll
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\BeFit.SERVICE.pdb
+C:\Users\Lenovo\Desktop\BeFitFinish\BeFitFinish\BeFit.SERVICE\obj\Debug\net6.0\ref\BeFit.SERVICE.dll
