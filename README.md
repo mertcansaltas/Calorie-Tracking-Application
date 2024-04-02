@@ -15,6 +15,12 @@ Bu proje C# tabanlı, SQL veritabanı, Entity Framework gibi teknolojiler kullan
 ![12](https://github.com/mertcansaltas/Diyet-Program-/assets/150259943/290c3bbc-6c3b-4410-bd18-f19ec72766ad)
 ![13](https://github.com/mertcansaltas/Diyet-Program-/assets/150259943/8ccbccc2-0086-41d6-9173-39f5fc7bdee8)
 ![14](https://github.com/mertcansaltas/Diyet-Program-/assets/150259943/25b7fb61-e3f8-413f-80b8-7c4f039b5c86)
+![sl1](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/b1484ed7-a48d-4d22-8791-ed7d50cebac1)
+![sl2](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/1a010c30-ddda-493a-af4f-2e285d96f749)
+![sl3](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/a132763d-cd05-4f98-b087-43733807d08a)
+![sl4](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/0600acc0-971a-4bde-b36d-86da4e992931)
+![sl5](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/a3606635-af6d-4016-a3e4-53c4bab026a8)
+![sl6](https://github.com/mertcansaltas/Calorie-Tracking-Application/assets/150259943/d5718dd0-0e6a-4fbb-8941-98d0c2361056)
 
 
 
